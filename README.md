@@ -1,16 +1,57 @@
-# todo
+# 📝 Flutter To-Do App with Hive
+> A fast, offline-first To-Do application built using Flutter and Hive for persistent local storage.
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue)
+![Hive](https://img.shields.io/badge/Hive-Local%20Database-yellow)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Overview
 
-A few resources to get you started if this is your first Flutter project:
+This **Flutter To-Do App** is a clean, minimal, and efficient task management application that demonstrates **state management, local database integration, and UI design best practices** in Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app uses **Hive**, a lightweight and blazing-fast NoSQL database, to store tasks locally — ensuring data persistence even when the app is restarted.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+✔ Add new tasks  
+✔ Edit existing tasks  
+✔ Delete tasks  
+✔ Mark tasks as completed  
+✔ Offline data persistence using Hive  
+✔ Material UI components  
+✔ Drawer navigation  
+✔ Bottom navigation bar  
+✔ Clean and intuitive UI
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|----------|------|
+| **Flutter** | UI framework |
+| **Dart** | Programming language |
+| **Hive** | Local NoSQL database |
+| **Material Design** | UI components |
+
+---
+
+## 🧠 What I Learned
+
+- Working with **Hive local storage**
+- CRUD operations in Flutter
+- Stateful widget lifecycle
+- Dialogs & form handling
+- UI structuring with Material components
+- Managing persistent app state
+- Writing clean and reusable Flutter code
+
+---
+
+## 📂 Project Structure
+

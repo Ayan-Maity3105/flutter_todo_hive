@@ -68,6 +68,15 @@ cd flutter_todo_hive
 flutter pub get
 flutter run
 
+---
+
+## 📦 Dependencies
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
 
 
 

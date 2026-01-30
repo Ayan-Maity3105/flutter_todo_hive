@@ -63,7 +63,7 @@ The app uses **Hive**, a lightweight and blazing-fast NoSQL database, to store t
 ### Steps
 
 ```bash
-git clone https://github.com/your-username/flutter_todo_hive.git
+git clone https://github.com/Ayan-Maity3105/flutter_todo_hive
 cd flutter_todo_hive
 flutter pub get
 flutter run

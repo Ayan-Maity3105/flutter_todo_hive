@@ -67,16 +67,17 @@ git clone https://github.com/your-username/flutter_todo_hive.git
 cd flutter_todo_hive
 flutter pub get
 flutter run
-
+```
 ---
 
 ## 📦 Dependencies
 
+```yaml
 dependencies:
   flutter:
     sdk: flutter
   hive: ^2.2.3
   hive_flutter: ^1.1.0
-
+```
 
 

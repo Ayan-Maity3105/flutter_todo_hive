@@ -53,5 +53,21 @@ The app uses **Hive**, a lightweight and blazing-fast NoSQL database, to store t
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Installation & Setup
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio / VS Code
+- Emulator or physical device
+
+### Steps
+
+```bash
+git clone https://github.com/your-username/flutter_todo_hive.git
+cd flutter_todo_hive
+flutter pub get
+flutter run
+
+
+
 

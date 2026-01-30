@@ -80,4 +80,23 @@ dependencies:
   hive_flutter: ^1.1.0
 ```
 
+---
+
+## 🔮 Future Enhancements
+
+- 🌙 Dark / Light theme toggle
+- 🔍 Search & filter tasks
+- 📅 Task deadlines
+- 🔔 Notifications & reminders
+- ☁ Cloud sync (Firebase)
+- 👤 User authentication
+
+---
+
+## 👨‍💻 Author
+
+Ayan Maity
+BSc IT Student | Flutter Developer
+
+
 
